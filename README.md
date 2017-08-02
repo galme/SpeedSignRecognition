@@ -35,6 +35,8 @@ Topology:
 ### Performance:
 On a i7 4700MQ, processing for 1 frame requires 9-23 _ms_ for video with downsizing to 1000xN or Nx1000, where N <= 1000.
 
+The real-life speed limit detection accuracy is quite good.
+
 
 ## Output example:
 
